@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="842083cd-aea4-482b-af04-721aa40a7153" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AppTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,60 +18,68 @@
     <session id="-682656373">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.22" value="2" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="3" />
           <entry key="project.open.time.24" value="2" />
-          <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5849" />
+          <entry key="java" value="9443" />
           <entry key="xml" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5849" />
+          <entry key="JAVA" value="9443" />
           <entry key="XML" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="3" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
     </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wetvTest" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="442">
               <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+            <state relative-caret-position="-162">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,10 +88,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AppTestHilton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="147" column="40" selection-start-line="147" selection-start-column="40" selection-end-line="147" selection-end-column="40" />
+            <state relative-caret-position="291">
+              <caret line="145" column="8" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/main/java/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AppTestHilton.java" />
       </list>
     </option>
   </component>
@@ -147,10 +167,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3116" />
-    <option name="y" value="138" />
-    <option name="width" value="595" />
-    <option name="height" value="892" />
+    <option name="x" value="1985" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -184,6 +204,11 @@
             <path>
               <item name="wetvTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="wetvTest" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wetvTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wetvTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -191,13 +216,6 @@
               <item name="wetvTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wetvTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wetvTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wetvTest" type="b2602c69:ProjectViewProjectNode" />
@@ -211,11 +229,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wetvTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wetvTest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,18 +237,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542761815437" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544055687996" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -250,8 +266,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AppTest.simple_Scan_Return_True">
-    <configuration name="AppTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.AppTestHilton.simple_Scan_Return_True">
+    <configuration name="AppTest (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="wetvTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AppTest" />
@@ -261,30 +277,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest (4)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTestHilton (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="wetvTest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="MAIN_CLASS_NAME" value="AppTestHilton" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest (5)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTestHilton" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="wetvTest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="MAIN_CLASS_NAME" value="AppTestHilton" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AppTestHilton.simple_Scan_Return_True" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="wetvTest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AppTest" />
+      <option name="MAIN_CLASS_NAME" value="AppTestHilton" />
+      <option name="METHOD_NAME" value="simple_Scan_Return_True" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -304,19 +322,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.AppTest (1)" />
-      <item itemvalue="TestNG.AppTest (4)" />
-      <item itemvalue="TestNG.AppTest" />
-      <item itemvalue="TestNG.AppTest (5)" />
       <item itemvalue="TestNG.AppTest.simple_Scan_Return_True" />
+      <item itemvalue="TestNG.AppTest (3)" />
+      <item itemvalue="TestNG.AppTestHilton.simple_Scan_Return_True" />
+      <item itemvalue="TestNG.AppTestHilton" />
+      <item itemvalue="TestNG.AppTestHilton (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AppTestHilton.simple_Scan_Return_True" />
+        <item itemvalue="TestNG.AppTestHilton" />
+        <item itemvalue="TestNG.AppTestHilton (1)" />
+        <item itemvalue="TestNG.AppTest (3)" />
         <item itemvalue="TestNG.AppTest.simple_Scan_Return_True" />
-        <item itemvalue="TestNG.AppTest (5)" />
-        <item itemvalue="TestNG.AppTest" />
-        <item itemvalue="TestNG.AppTest (4)" />
-        <item itemvalue="TestNG.AppTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -334,35 +352,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_(4) - 2018.11.20 at 23h 17m 33s.xml">
-      <configuration name="AppTest (4)" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.05 at 23h 54m 00s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest - 2018.11.20 at 23h 23m 33s.xml">
-      <configuration name="AppTest" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.05 at 23h 54m 59s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_(5) - 2018.11.21 at 00h 27m 01s.xml">
-      <configuration name="AppTest (5)" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.05 at 23h 59m 17s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_simple_Scan_Return_True - 2018.11.21 at 00h 27m 44s.xml">
-      <configuration name="AppTest.simple_Scan_Return_True" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.06 at 00h 02m 01s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_simple_Scan_Return_True - 2018.11.21 at 00h 28m 07s.xml">
-      <configuration name="AppTest.simple_Scan_Return_True" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.06 at 00h 13m 57s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_simple_Scan_Return_True - 2018.11.21 at 00h 35m 15s.xml">
-      <configuration name="AppTest.simple_Scan_Return_True" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.06 at 00h 16m 10s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_simple_Scan_Return_True - 2018.11.21 at 00h 36m 22s.xml">
-      <configuration name="AppTest.simple_Scan_Return_True" configurationId="TestNG" />
+    <history-entry file="AppTestHilton - 2018.12.06 at 00h 17m 38s.xml">
+      <configuration name="AppTestHilton" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_simple_Scan_Return_True - 2018.11.21 at 00h 37m 02s.xml">
-      <configuration name="AppTest.simple_Scan_Return_True" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.06 at 00h 20m 12s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_simple_Scan_Return_True - 2018.11.21 at 00h 37m 35s.xml">
-      <configuration name="AppTest.simple_Scan_Return_True" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.06 at 00h 21m 15s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="AppTest_simple_Scan_Return_True - 2018.11.21 at 00h 38m 11s.xml">
-      <configuration name="AppTest.simple_Scan_Return_True" configurationId="TestNG" />
+    <history-entry file="AppTestHilton_simple_Scan_Return_True - 2018.12.06 at 00h 21m 51s.xml">
+      <configuration name="AppTestHilton.simple_Scan_Return_True" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="2">
@@ -375,26 +393,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1984" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49375" visible="true" weight="0.16583748" />
-      <window_info id="Structure" order="1" sideWeight="0.50625" side_tool="true" visible="true" weight="0.16583748" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48535565" visible="true" weight="0.1321172" />
+      <window_info id="Structure" order="1" sideWeight="0.5146443" side_tool="true" weight="0.17634052" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.5146443" side_tool="true" weight="0.17634052" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.32985386" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="6" visible="true" weight="0.33054394" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.028183715" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.28033474" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.21189979" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.49164927" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.21129707" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.374477" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -402,7 +421,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3605442" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3604201" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -423,27 +442,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/StringBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,13 +456,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="147" column="40" selection-start-line="147" selection-start-column="40" selection-end-line="147" selection-end-column="40" />
+        <state relative-caret-position="442">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AppTestHilton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="145" column="8" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
         </state>
       </provider>
     </entry>
